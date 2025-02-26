@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, im Eduardo.
+----
+
+### Languages and Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height=40 href="https://python.org"/>
 
 <!--
 **eduardogott/eduardogott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
