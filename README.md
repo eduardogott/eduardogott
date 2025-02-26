@@ -1,5 +1,4 @@
-## Hi 👋, im Eduardo.
-----
+<h1 align="center">Hi 👋, im Eduardo</h1>
 
 ### Languages and Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height=40 href="https://python.org"/>
